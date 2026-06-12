@@ -26,6 +26,6 @@ Sisteminizde Python 3.x ve Python paket yöneticisi (`pip`) kurulu olmalıdır.
 
 ### 2. Depoyu Klonlayın ve Klasöre Geçin
 ```bash
-
+git clone https://github.com/N3XLY/AnubisTool.git
 cd AnubisTool
 python AnubisTool
