@@ -1,3 +1,6 @@
+
+
+<img width="882" height="562" alt="AnubisTool" src="https://github.com/user-attachments/assets/8396a3c2-db22-4f23-9ee9-ac794a3427be" />
 # 🔱 Anubis Tool
 
 Anubis Tool, siber güvenlik uzmanları, ağ yöneticileri ve siber güvenlik meraklıları için geliştirilmiş, **açık kaynak kodlu ve çok fonksiyonlu bir siber güvenlik ve ağ denetim aracıdır (CLI).** 
@@ -23,6 +26,6 @@ Sisteminizde Python 3.x ve Python paket yöneticisi (`pip`) kurulu olmalıdır.
 
 ### 2. Depoyu Klonlayın ve Klasöre Geçin
 ```bash
-git clone https://github.com/N3XLY/AnubisToll.git
+
 cd AnubisTool
 python AnubisTool
